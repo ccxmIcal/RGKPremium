@@ -1,1 +1,74 @@
-
+{
+    "colors": {
+        "SchemeColor": "230, 35, 69",
+        "Background": "32, 32, 32",
+        "Header": "24, 24, 24",
+        "TextColor": "119, 209, 138",
+        "ElementColor": "24, 24, 24"
+    },
+    "themeStyles": {
+        "DarkTheme": {
+            "SchemeColor": "64, 64, 64",
+            "Background": "0, 0, 0",
+            "Header": "0, 0, 0",
+            "TextColor": "255,255,255",
+            "ElementColor": "20, 20, 20"
+        },
+        "LightTheme": {
+            "SchemeColor": "150, 150, 150",
+            "Background": "255, 255, 255",
+            "Header": "200, 200, 200",
+            "TextColor": "0 ,0, 0",
+            "ElementColor": "224, 224, 224"
+        },
+        "BloodTheme": {
+            "SchemeColor": "227, 27, 27",
+            "Background": "10, 10, 10",
+            "Header": "5, 5, 5",
+            "TextColor": "255, 255, 255",
+            "ElementColor": "20, 20, 20"
+        },
+        "GrapeTheme": {
+            "SchemeColor": "166, 71, 214",
+            "Background": "64, 50, 71",
+            "Header": "36, 28, 41",
+            "TextColor": "255, 255, 255",
+            "ElementColor": "74, 58, 84"
+        },
+        "Ocean": {
+            "SchemeColor": "86, 76, 251",
+            "Background": "26, 32, 58",
+            "Header": "38, 45, 71",
+            "TextColor": "200, 200, 200",
+            "ElementColor": "38, 45, 71"
+        },
+        "Midnight": {
+            "SchemeColor": "26, 189, 158",
+            "Background": "44, 62, 82",
+            "Header": "57, 81, 105",
+            "TextColor": "255, 255, 255",
+            "ElementColor": "52, 74, 95"
+        },
+        "Sentinel": {
+            "SchemeColor": "230, 35, 69",
+            "Background": "32, 32, 32",
+            "Header": "24, 24, 24",
+            "TextColor": "119, 209, 138",
+            "ElementColor": "24, 24, 24"
+        },
+        "Synapse": {
+            "SchemeColor": "46, 48, 43",
+            "Background": "13, 15, 12",
+            "Header": "36, 38, 35",
+            "TextColor": "152, 99, 53",
+            "ElementColor": "24, 24, 24"
+        },
+        "Serpent": {
+            "SchemeColor": "0, 166, 58",
+            "Background": "31, 41, 43",
+            "Header": "22, 29, 31",
+            "TextColor": "255, 255, 255",
+            "ElementColor": "22, 29, 31"
+        }
+    }
+}
