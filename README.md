@@ -66,7 +66,7 @@ Idk what you expect to find here
   + Preset themes
   + Configuration System so that you don't need to manually make your settings everytime you use the script!
 
-#Monster Ghoul
+# Monster Ghoul
 
 + Aimbots
  + Camera Aimbot
