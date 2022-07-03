@@ -68,6 +68,34 @@ Idk what you expect to find here
 
 # Monster Ghoul
 
++ Aimbot
+ - Target Specific Camera Aimbot (Will lock your camera on a player of your choice!)
+ - Takizawa Teleport (Will automatically teleport you behind a player of your choice and automatically do R!) (Should be used only with friends because it is blatant)
+ - Narukami Teleport
++ Visuals
+ - ESP
+  - Tracers
+  - Boxes
+  -Name ESP
++ Misc
+ - WalkSpeed
+ - Jump Power
+ - Noclip
+ - Gravity Changer
+ - Remove Nametag
+ - Invisibility
+ - Join Smallest Server
+ - Rejoin same Server
+ - Color Changer
++ Menu/UI/GUI Settings
+ - Fully customisable menu
+ + Custom themes
+ + Preset Themes
+ + Configuration System so that you don't need to manually make your settings everytime you execute the script!
+
+# Murder Mystery 2
+
++ Murder Mystery 2 Features:
 + Aimbots
  + Camera Aimbot
  + Sherif Revolver Silent Aimbot
@@ -93,6 +121,7 @@ Idk what you expect to find here
  + Coins Automfarm
  + Coins Autofarm teleport speed selector.
  + Autofarm Bypasses fake coins(that cannot be collected and that are meant to block autofarms)
+
 
 # Arsenal
 
