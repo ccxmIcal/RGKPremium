@@ -35,7 +35,7 @@ Idk what you expect to find here
   + Will no longer cause lag like in the free version of the script!
  - Gravity Changer
  - Staff Notifier (Will automatically kick you if a Ro-Ghoul staff member joins your game!)
- - Invisibility (Will make you invisible. Works best on Takiazawa! Visible for everyone!)
+ - Invisibility (Will make you invisible. Visible for everyone!)
  - Remove NameTag (Will remove the name above your character! Visible for everyone!)
  - Join smallest Server
  - Rejoin same server
@@ -178,6 +178,7 @@ Idk what you expect to find here
   + Rage-Bot
    - Auto-Shoot (Work in Proggress)
    - Kill All
+   - Wall Bang (Shoot Through Walls)
    - Anti Aim
      - Yaw (Back, Spin, Jitter)
      - Custom Spin Speed
